@@ -1,4 +1,4 @@
-# New-Luna
+# VeoTrex
 
 AI-powered workplace safety pipeline for real-time video detection, tracking, event triggering, VLM escalation, and cloud telemetry.
 
